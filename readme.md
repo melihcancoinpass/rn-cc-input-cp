@@ -30,13 +30,13 @@ Code:
 # Usage
 
 ```bash
-npm i --save react-native-credit-card-input
+npm i --save rn-cc-input-cp
 ```
 
 then add these lines in your react-native codebase
 
 ```js
-import { CreditCardInput, LiteCreditCardInput } from "react-native-credit-card-input";
+import { CreditCardInput, LiteCreditCardInput } from "rn-cc-input-cp";
 
 <CreditCardInput onChange={this._onChange} />
 // or

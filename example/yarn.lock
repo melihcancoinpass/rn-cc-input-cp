@@ -4569,7 +4569,7 @@ react-native-branch@2.0.0-beta.3:
   version "2.0.0-beta.3"
   resolved "https://registry.yarnpkg.com/react-native-branch/-/react-native-branch-2.0.0-beta.3.tgz#2167af86bbc9f964bd45bd5f37684e5b54965e32"
 
-"react-native-credit-card-input@file:./..":
+"rn-cc-input-cp@file:./..":
   version "0.3.3"
   dependencies:
     card-validator "^3.0.0"

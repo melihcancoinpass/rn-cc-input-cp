@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { StyleSheet, View, Switch } from "react-native";
-import { CreditCardInput, LiteCreditCardInput } from "react-native-credit-card-input";
+import { CreditCardInput, LiteCreditCardInput } from "rn-cc-input-cp";
 
 const s = StyleSheet.create({
   switch: {
