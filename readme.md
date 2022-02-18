@@ -19,7 +19,7 @@ Code:
 
 
 # Features
-* Skeuomorphic credit-card 💳 (inspired by: [card](https://jessepollak.github.io/card/), [react-native-credit-card](https://github.com/sonnylazuardi/react-native-credit-card))
+* sbycrosz/react-native-credit-card-input but customizable 💳 (inspired by: [card](https://github.com/sbycrosz/react-native-credit-card-input))
 * **!!NEW!!** Now you could scale the Credit Card for smaller screens
 * **!!NEW!!** Now you could use CardView as a Component. example use case: showing saved payment details, etc.
 * Lite version for smaller screens (or if skeuomorphic is not really your thing)
