@@ -71,8 +71,8 @@ const s = StyleSheet.create({
   cvc: {
     fontSize: 16,
     position: "absolute",
-    top: 80,
-    right: 30,
+    top: 95,
+    right: 32.5,
   },
 });
 
