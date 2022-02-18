@@ -1,6 +1,6 @@
 {
   "name": "rn-cc-input-cp",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "CreditCardInput",
   "main": "index.js",
   "scripts": {

@@ -13,7 +13,7 @@ import {
 import defaultIcons from "./Icons";
 import FlipCard from "react-native-flip-card";
 
-const BASE_SIZE = { width: Dimensions.get('window').width*0.95, height: 220 };
+const BASE_SIZE = { width: Dimensions.get('window').width*0.95, height: Dimensions.get('window').width*0.6 };
 
 const s = StyleSheet.create({
   cardContainer: {},
@@ -71,7 +71,7 @@ const s = StyleSheet.create({
   cvc: {
     fontSize: 16,
     position: "absolute",
-    top: 95,
+    top: Dimensions.get('window').width*0.26,
     right: 32.5,
   },
 });
